@@ -6,7 +6,10 @@
 Not: Bu ödevde README.md dosyalarınızın özenli olmasını bekliyor olacağız.
 
 
-In this assignment, tests of ongoing scenarios related to Android ContactManager were written in Appium, and exception handling was attempted by using try catch for these tests.
-In the Appium test, first a code was written to get the project up and then separate classes were created to reveal various scenarios.
-In these classes, tests were written for separate tabs.
-In this assignment, the codes from the previous lesson were also used because it was tried to continue the tests related to the ongoing requirements.
+-In this assignment, tests of ongoing scenarios related to Android ContactManager were written in Appium, and exception handling was attempted by using try catch for these tests.
+
+-In the Appium test, first a code was written to get the project up and then separate classes were created to reveal various scenarios.
+
+-In these classes, tests were written for separate tabs.
+
+-In this assignment, the codes from the previous lesson were also used because it was tried to continue the tests related to the ongoing requirements.
